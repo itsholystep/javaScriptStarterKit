@@ -34,3 +34,4 @@ console.log("</ul>")
 
 //react
 console.log(konutKrediler)
+
